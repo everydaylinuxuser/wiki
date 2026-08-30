@@ -1,8 +1,9 @@
 baseURL = 'https://everydaylinuxuser.github.io/wiki/'
 locale = 'en-us'
-title = 'Everyday Linux User Guides'
+title = 'Guides'
 theme = 'hugo-theme-book'
 
 [params]
-  BookTheme = 'dark'
+  BookTheme = 'light'
   BookToC = true
+  BookSearch = true
