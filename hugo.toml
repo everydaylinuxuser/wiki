@@ -1,3 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'http://localhost:1313/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Everyday Linux User Guides'
+theme = 'hugo-theme-book'
+
+[params]
+  BookTheme = 'dark'
+  BookToC = true
