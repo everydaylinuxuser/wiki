@@ -15,8 +15,18 @@ Useful reference documents
 
 ---
 
+### 📚 Arch
+
+All documentation for the Arch operating system
+
+* [Arch installation guide](docs/archlinuxinstallguide)
+
+---
+
 ### 📚 Fedora
 
 All documentation for the Fedora operating system
 
 * [GNOME Workstation installation guide](docs/fedoraworkstationinstallguide)
+
+
