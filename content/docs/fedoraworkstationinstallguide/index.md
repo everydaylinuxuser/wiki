@@ -23,22 +23,18 @@ Insert your USB drive into your computer before starting.
 
 ## How To Get The Fedora ISO Image
 
-![Fedora Website](images/fedorawebsite.png)
+![Linux ISO Checker Top Linux Distros - Download Fedora](images/linuxisocheckerfedora.png)
 
-1. Go to [https://fedoraproject.org](https://fedoraproject.org)
-2. Click on the large number in the middle. 
-
-![Fedora Download](images/fedoraworkstation.png)
-
-3. Click on the download now button.
-
-![Fedora Download](images/fedoradownload.png)
-
-4. Click on the download arrow under "For Intel and AMD x86_64 systems".
-
-5. [Create a Ventoy USB Drive](../ventoy-usb-creation-guide)
-
-6. Copy the downloaded Fedora ISO image to the Ventoy drive.
+1. Go to [https://linuxisochecker.com/top_linux_distros](https://linuxisochecker.com/top_linux_distros)
+2. Search for Fedora Workstation
+3. Click on the "Download" link.
+4. Click on the "Checksum" link.
+5. Go to [https://linuxisochecker.com](https://linuxisochecker.com)
+6. Click "Browse Files" and choose the Fedora ISO from the downloads folder.
+7. Click "Browse" next to upload manifest and choose the checksum file from the downloads folder.
+8. Click "Verify ISO Integrity now".
+9. If the file is authenticated correctly [Create a Ventoy USB Drive](../ventoy-usb-creation-guide)
+10. Copy the downloaded Fedora ISO image to the Ventoy drive.
 
 ## Boot Into Fedora Live Image
 

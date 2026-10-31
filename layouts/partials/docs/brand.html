@@ -1,10 +1,7 @@
 <div class="book-menu-header">
-  <!-- Brand Logo / Image -->
-  <a href="{{ site.BaseURL }}">
-    <img src="{{ site.BaseURL }}logo.jpg" alt="Logo" style="width: 60px; height: 60px; border-radius: 50%; display: block; margin: 0 auto 0.5rem auto;" />
+  <a class="wiki-logo-link" href="{{ site.BaseURL }}">
+    <img class="wiki-logo" src="{{ "logo.jpg" | relURL }}" alt="Everyday Linux User logo" />
   </a>
-  
-  <!-- Default Site Title -->
   <h2 class="book-brand">
     <a class="flex align-center" href="{{ .Site.BaseURL }}">
       <span>{{ .Site.Title }}</span>

@@ -1,6 +1,6 @@
-# Welcome to the Everyday Linux User Wiki
+# Everyday Linux User Wiki
 
-This is the WIKI for the [Everyday Linux User Youtube Channel](youtube.com/@everydaylinuxuser).
+## Documenting the videos from the [Everyday Linux User](youtube.com/@everydaylinuxuser) YouTube Channel
 
 Explore the documentation sections below:
 

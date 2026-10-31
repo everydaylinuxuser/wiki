@@ -4,6 +4,6 @@ title = 'Guides'
 theme = 'hugo-theme-book'
 
 [params]
-  BookTheme = 'light'
+  BookTheme = 'dark'
   BookToC = true
   BookSearch = true
