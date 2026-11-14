@@ -29,4 +29,11 @@ All documentation for the Fedora operating system
 
 * [GNOME Workstation installation guide](docs/fedoraworkstationinstallguide)
 
+### 📚 Ubuntu
+
+All documentation for the Ubuntu operating system
+
+* [Ubuntu installation guide with encryption](docs/ubuntuinstallguide/)
+* [Encrypt Ubuntu home folder](docs/ubuntuencrypthomefolder/)
+* [Enable Firewall](docs/ubuntusetupfirewall/)
 
